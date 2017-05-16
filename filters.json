@@ -1,29 +1,29 @@
 {
-    "author": "AdBusters",
-    "version":  "v1.0.0",
-    "filters": {
-        "basic": [
-            {
-		"id": 1,    
-                "name": "Easylist general (incl. international, en/us)",
-                "default": true,
-                "urls": [
-                    "https://raw.githubusercontent.com/ad-busters/easylist/master/easylist/easylist_adservers.txt",
-				    "https://raw.githubusercontent.com/ad-busters/easylist/master/easylist/easylist_adservers_popup.txt",
-    				"https://raw.githubusercontent.com/ad-busters/easylist/master/easylist/easylist_general_block.txt",
-	    			"https://raw.githubusercontent.com/ad-busters/easylist/master/easylist/easylist_general_block_popup.txt",
-		    		"https://raw.githubusercontent.com/ad-busters/easylist/master/easylist/easylist_general_hide.txt",
-			    	"https://raw.githubusercontent.com/ad-busters/easylist/master/easylist/easylist_specific_block.txt",
-    			    "https://raw.githubusercontent.com/ad-busters/easylist/master/easylist/easylist_specific_block_popup.txt",
+	"author": "AdBusters",
+	"version":  "v1.0.0",
+	"filters": {
+	"basic": [
+		{
+			"id": 1,    
+			"name": "Easylist general (incl. international, en/us)",
+			"default": true,
+			"urls": [
+				"https://raw.githubusercontent.com/ad-busters/easylist/master/easylist/easylist_adservers.txt",
+				"https://raw.githubusercontent.com/ad-busters/easylist/master/easylist/easylist_adservers_popup.txt",
+				"https://raw.githubusercontent.com/ad-busters/easylist/master/easylist/easylist_general_block.txt",
+				"https://raw.githubusercontent.com/ad-busters/easylist/master/easylist/easylist_general_block_popup.txt",
+				"https://raw.githubusercontent.com/ad-busters/easylist/master/easylist/easylist_general_hide.txt",
+				"https://raw.githubusercontent.com/ad-busters/easylist/master/easylist/easylist_specific_block.txt",
+				"https://raw.githubusercontent.com/ad-busters/easylist/master/easylist/easylist_specific_block_popup.txt",
     				"https://raw.githubusercontent.com/ad-busters/easylist/master/easylist/easylist_specific_hide.txt",
 	    			"https://raw.githubusercontent.com/ad-busters/easylist/master/easylist/easylist_thirdparty.txt",
 		    		"https://raw.githubusercontent.com/ad-busters/easylist/master/easylist/easylist_thirdparty_popup.txt",
 			    	"https://raw.githubusercontent.com/ad-busters/easylist/master/easylist/easylist_whitelist.txt",
-				    "https://raw.githubusercontent.com/ad-busters/easylist/master/easylist/easylist_whitelist_dimensions.txt",
+				"https://raw.githubusercontent.com/ad-busters/easylist/master/easylist/easylist_whitelist_dimensions.txt",
     				"https://raw.githubusercontent.com/ad-busters/easylist/master/easylist/easylist_whitelist_general_hide.txt",
 	    			"https://raw.githubusercontent.com/ad-busters/easylist/master/easylist/easylist_whitelist_popup.txt"
-                ]
-            },
+			]
+		},
 	    {
 		"id": 2,
                 "name": "Anti Anti-AdBlocker",
