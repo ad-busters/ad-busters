@@ -4,7 +4,8 @@
     "filters": {
         "basic": [
             {
-                "name": "Easylist general (inkl. EN/US)",
+		"id": 1,    
+                "name": "Easylist general (incl. international, en/us)",
                 "default": true,
                 "urls": [
                     "https://raw.githubusercontent.com/ad-busters/easylist/master/easylist/easylist_adservers.txt",
@@ -24,6 +25,7 @@
                 ]
             },
 	    {
+		"id": 2,
                 "name": "Anti Anti-AdBlocker",
                 "default": false,
                 "urls": [
@@ -31,6 +33,7 @@
                 ]
             },
             {
+		"id": 3,
                 "name": "Tracking Protection",
                 "default": false,
                 "urls": [
@@ -48,6 +51,7 @@
         ],
         "local": [
             {
+		"id": 1,
                 "name": "Arabian",
                 "default": false,
                 "urls": [
@@ -55,6 +59,7 @@
                 ]
             },
             {
+		"id": 2,
                 "name": "Bulgarian",
                 "default": false,
                 "urls": [
@@ -62,6 +67,7 @@
                 ]
             },
             {
+		"id": 3,
                 "name": "China",
                 "default": false,
                 "urls": [
@@ -69,6 +75,7 @@
                 ]
             },
             {
+		"id": 4,
                 "name": "Czech and Slovakia",
                 "default": false,
                 "urls": [
@@ -76,6 +83,7 @@
                 ]
             },
             {
+		"id": 5,
                 "name": "France",
                 "default": false,
                 "urls": [
@@ -83,6 +91,7 @@
                 ]
             },
             {
+		"id": 6,
                 "name": "Germany",
                 "default": false,
                 "urls": [
@@ -103,6 +112,7 @@
                 ]
             },
             {
+		"id": 7,
                 "name": "Indonesia",
                 "default": false,
                 "urls": [
@@ -110,6 +120,7 @@
                 ]
             },
             {
+		"id": 8,
                 "name": "Israel",
                 "default": false,
                 "urls": [
@@ -117,6 +128,7 @@
                 ]
             },
             {
+		"id": 9,
                 "name": "Italy",
                 "default": false,
                 "urls": [
@@ -124,6 +136,7 @@
                 ]
             },
             {
+		"id": 10,
                 "name": "Latvia",
                 "default": false,
                 "urls": [
@@ -131,6 +144,7 @@
                 ]
             },
             {
+		"id": 11,
                 "name": "Lithuania",
                 "default": false,
                 "urls": [
@@ -138,6 +152,7 @@
                 ]
             },
             {
+		"id": 12,
                 "name": "Netherlands",
                 "default": false,
                 "urls": [
@@ -145,6 +160,7 @@
                 ]
             },
             {
+		"id": 13,
                 "name": "Spain",
                 "default": false,
                 "urls": [
